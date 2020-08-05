@@ -6,11 +6,11 @@
     <a href="https://www.instagram.com/_izekry"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/backendgeeks7/backendgeeks7/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/backendgeeks7/backendgeeks7/master/profile-img.png" align="right" width="25%"/>
 
 <p>
   I believe we have to be part of great achievements in the software industry which leads our lives to be easier and more efficient, so I work hard to do so.
 </p>
 
-- 🔭 I'm a software developer [@Afaqy](https://afaqy.com/) in Berlin, Germany
+- 🔭 I'm a software developer [@Afaqy](https://afaqy.com/) in Riyadh, Saudi Arabia.
 - 💬 Ask me about **Back-end Development**
