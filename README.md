@@ -14,7 +14,7 @@
 
 - 🔭 I'm a <strong>Software Developer</strong>[@Afaqy](https://afaqy.com/) in Riyadh, Saudi Arabia.
 - 💬 Ask me about **Back-end Development**.
-- 🌱 I’m currently learning Software Design Pattern in deeply, Clean Code and Algorithmes.
+- 🌱 I’m currently learning **Data structures and Algorithms** deeply.
 
 <br />
 
