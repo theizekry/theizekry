@@ -8,7 +8,7 @@
 
 <!-- <img src="https://github.com/backendgeeks7/backendgeeks7/blob/master/profile-img.png" align="right" width="25%"/> -->
 
-<img align="right" width="400" height="400" src="https://github.com/backendgeeks7/backendgeeks7/blob/master/my-avatar.PNG">
+<img align="right" width="400" height="400" src="https://github.com/theizekry/theizekry/blob/master/my-avatar.png">
 
 
 <h4>
