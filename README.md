@@ -6,9 +6,9 @@
 <a href="https://www.instagram.com/theizekry"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-<!-- <img src="https://github.com/backendgeeks7/backendgeeks7/blob/master/profile-img.png" align="right" width="25%"/> -->
+<img src="https://github.com/backendgeeks7/backendgeeks7/blob/master/profile-img.png" align="right" width="25%"/>
 
-<img align="right" width="400" height="400" src="https://github.com/theizekry/theizekry/blob/master/my-avatar.png">
+<!-- <img align="right" width="400" height="400" src="https://github.com/theizekry/theizekry/blob/master/my-avatar.png"> -->
 
 
 <h4>
