@@ -19,13 +19,6 @@
 - 💬 Ask me about **Back-end Development**.
 - 🌱 I’m currently learning **Data structures and Algorithms** deeply.
 
-<br />
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=theizekry&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Andrew Schmelyun's GitHub Stats" />
-</a>
-
 
 ## My Skills
 
@@ -54,5 +47,22 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 </p>
+<br />
+
+
+<!-- github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="500" align="top" src="https://github-readme-stats.vercel.app/api?username=theizekry&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Andrew Schmelyun's GitHub Stats" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="500" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theizekry&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=495" alt="Islam Zekry's Most Used GitHub Languages" />
+</a>
+
+<br />
 
 🔭 Thanks for your time.
